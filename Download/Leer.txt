@@ -1,0 +1,10 @@
+Primer instalar en el siguiente orden:
+
+jdk-8u231-windows-x64.exe
+
+Descomprimir apache-jmeter-5.2.1.zip
+
+entrar a la carpeta apache-jmeter-5.2.1\bin
+
+ejecutar el archivo jmeter.bat
+
